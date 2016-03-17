@@ -1,4 +1,4 @@
-# Test de portfolio #1 de Gian Vera
+# Test #1 de portfolio de Gian Vera
 
 Portfolio responsive one-page básico.
 
